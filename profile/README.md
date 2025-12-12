@@ -16,7 +16,7 @@
 </div>
 </td>
 <td align="center" valign="middle">
-<img src="https://static.macupdate.com/screenshots/306134/m/ssh-config-editor-screenshot.png?v=1659518097" width="500" alt="SSH Config Editor Pro main interface on macOS">
+<img src="https://www.maczm.com/wp-content/uploads/2024/03/main_view@2x.webp" width="500" alt="SSH Config Editor Pro main interface on macOS">
 </td>
 </tr>
 </table>
